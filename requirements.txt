@@ -18,5 +18,5 @@ retworkx==0.10.2
 rsa==4.7.2
 toml==0.10.2
 websocket-client==1.2.1
-torch== https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
+torch==https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
 torchvision==0.10.1
