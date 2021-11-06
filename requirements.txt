@@ -182,7 +182,7 @@ tifffile==2021.8.30
 toml==0.10.2
 torch==1.9.1
 torchaudio==0.9.1
-torchvision==0.10.1+cu102
+torchvision==0.10.1
 tornado==6.1
 tqdm==4.62.3
 traitlets==5.1.0
