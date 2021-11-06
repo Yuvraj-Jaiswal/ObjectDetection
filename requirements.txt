@@ -180,7 +180,7 @@ tf-agents==0.10.0
 threadpoolctl==2.2.0
 tifffile==2021.8.30
 toml==0.10.2
-torch==1.9.1+cu102
+torch==1.9.1
 torchaudio==0.9.1
 torchvision==0.10.1+cu102
 tornado==6.1
